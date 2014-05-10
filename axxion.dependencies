@@ -25,6 +25,13 @@
     },
     {
         "repository": "android_kernel_samsung_exynos5410",
-        "target_path": "kernel/samsung/exynos5410"
+        "target_path": "kernel/samsung/exynos5410"  
+    },
+    {
+        "repository": "proprietary_vendor_samsung",
+        "target_path": "vendor/samsung"
+        "revision": "cm-11.0"
+        "remote": "tm"
+        
     }
 ]
